@@ -1,7 +1,4 @@
 
-#encrypt one letter at a time
-#letter = "A"
-
 plaintext = input("Enter Message to encrypt or decrypt").upper()
 
 ciphertext = ""
