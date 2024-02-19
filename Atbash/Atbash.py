@@ -19,5 +19,9 @@ while True:
     print("Encrypted/Decrypted Message:", ciphertext)
 
     repeat = input("Do you want to encrypt or decrypt another message? (yes/no): ").lower()
-    if repeat != 'yes':
+    if repeat == 'yes' or repeat == 'y':
+        continue
+    elif repeat == 'no' or repeat == 'n':
         break
+    else:
+        print("I do not understand. Please enter 'yes' or 'no'.")
