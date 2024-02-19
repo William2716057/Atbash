@@ -3,6 +3,7 @@ The Atbash cipher is a cipher that will encrypt a plaintext by reversing the alp
 For example
 
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
+
 ZYXWVUTSRQPONMLKJIHGFEDCBA
 
 HELLO WORLD = SVOOL DLIOOW
