@@ -24,4 +24,4 @@ while True:
     elif repeat == 'no' or repeat == 'n':
         break
     else:
-        print("I do not understand. Please enter 'yes' or 'no'.")
+        print("Please enter in form of 'yes', 'no', 'y' or 'n'.")
